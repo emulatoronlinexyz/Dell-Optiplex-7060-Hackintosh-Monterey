@@ -2,4 +2,8 @@
 
 # [EmulatorOnline.xyz](https://emulatoronline.xyz/) Presents:
 
-Dell Optiplex 7060 Hackintosh Monterey
+Dell Optiplex Micro 7060 Hackintosh Monterey
+
+i7 8700
+Hd 630
+
